@@ -3,3 +3,4 @@ Test case titel: some title
 Steps to reproduce: 1,2,3
 
 tect case 2
+info about case2
