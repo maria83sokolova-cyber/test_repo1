@@ -4,3 +4,5 @@ Steps to reproduce: 1,2,3
 
 tect case 2
 info about case2
+
+test case3
